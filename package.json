@@ -10,8 +10,10 @@
     "@angular/platform-browser": "^8.0.0",
     "@angular/platform-browser-dynamic": "^8.0.0",
     "@angular/router": "^8.0.0",
+    "Router": "^2.1.0",
     "core-js": "2",
     "rxjs": "^6.5.2",
+    "webgl": "^0.0.7",
     "zone.js": "^0.9.1"
   },
   "scripts": {

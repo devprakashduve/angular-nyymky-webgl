@@ -1,0 +1,1 @@
+export * from './shader-day-1.component';
