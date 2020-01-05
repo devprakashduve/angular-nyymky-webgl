@@ -7,7 +7,5 @@ import { Router } from "@angular/router";
 })
 export class AppComponent  {
   name = 'webgl';
-  constructor(
-    private router: Router;   
-  ){}
+  constructor(private router: Router){}
 }
