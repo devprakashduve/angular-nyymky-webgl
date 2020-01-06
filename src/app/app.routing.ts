@@ -5,7 +5,7 @@ import { DayOneComponent } from './day-one';
 const routes: Routes = [
     //{ path: '', component: HomeComponent, canActivate: [AuthGuard] },
  
-    { path: 'dayOne', component: DayOneComponent }, 
+    { path: 'dayone', component: DayOneComponent }, 
 
     // otherwise redirect to home
     { path: '**', redirectTo: '' }
