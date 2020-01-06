@@ -8,7 +8,7 @@ import { AppComponent } from './app.component';
 import { HelloComponent } from './hello.component';
 
 import { DayOneComponent } from './day-one';
-import { BlogComponent } from './blog/blog.component';
+import { BlogComponent } from './blog';
 
 @NgModule({
   imports:      [ BrowserModule, FormsModule,appRoutingModule ],
